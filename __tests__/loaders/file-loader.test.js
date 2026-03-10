@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2018, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 const { getConfig } = require('../../lib/config');
 const { getFileLoaderOptions } = require('../../lib/loaders/file-loader');
 
