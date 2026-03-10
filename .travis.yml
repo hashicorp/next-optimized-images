@@ -1,3 +1,6 @@
+# Copyright IBM Corp. 2018, 2020
+# SPDX-License-Identifier: MIT
+
 language: node_js
 node_js:
   - 12

@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2018, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 const withOptimizedImages = require('../lib');
 
 const getNextConfig = (options, webpackOptions = {}) => {

@@ -1,3 +1,8 @@
+/**
+ * Copyright IBM Corp. 2018, 2020
+ * SPDX-License-Identifier: MIT
+ */
+
 import React from 'react';
 
 export default () => (
